@@ -5,7 +5,7 @@
             style="    background-image: linear-gradient(129deg, #303030     55%, #ffe6fa00 29%);
     padding: 25px;">
             <div class="col-md-7">
-                <h2 style="color: white" class="featurette-heading fw-normal lh-1">At [Community Name], </h2>
+                <h2 style="color: white" class="featurette-heading fw-normal lh-1">At Envo, </h2>
                 <br>
                 <p style="color: white" class="lead">we are a global network of people committed to reducing pollution and
                     creating sustainable solutions. Whether you’re passionate about cleaning up plastic from our oceans,
